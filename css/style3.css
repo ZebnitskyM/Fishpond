@@ -1,0 +1,87 @@
+body{
+  width: auto;
+  margin: 20px;
+  padding: 25px;
+  border: 1px solid #e0111d;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFMtMMc9p32O0eWp7AibZZBtqqc8vEQaPVwpfcIOBKXEVyXyLOA);
+  height: 1000px;
+
+}
+h1{
+  text-align: center;
+  font-family: arial, segoeui, calibri, sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+
+}
+h3{
+  margin-left: 20px;
+}
+.aside{
+  float: left;
+  height: 500px;
+  width: 100px;
+  padding: 0 20px;
+  margin: 0 20px;
+}
+nav{
+  float: right;
+  height: 500px;
+  width: 100px;
+  margin: -20px 20px 0 20px;
+  padding: 0 15px;
+}
+main{
+  width: auto;
+
+
+}
+.tit{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+
+}
+footer{
+  margin: 20px;
+  padding: 20px;
+  clear: both;
+  text-align: center;
+}
+table{
+  border: 3px solid #bab822;
+  background: #83563a;
+  text-align: center;
+  width: 400px;
+  height: 100px;
+  margin: auto;
+}
+.pic1{
+  width: 150px;
+  height: 100px;
+  float: left;
+  padding: 0 10px 0 0;
+}
+.pic2{
+  margin: 0 0 0 20px;
+  width:100px;
+  height: 150px;
+}
+.tex{
+  text-align: justify;
+  height: 300px;
+  width: 160px;
+  font-size: 14px;
+  font-weight: 5px;
+  overflow-y:  scroll;
+}
+.tex2{
+
+}
+.tex3{
+  width: auto;
+  height: auto;
+  font-size: 14px;
+  font-weight: 25px;
+
+}
